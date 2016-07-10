@@ -1,0 +1,11 @@
+{
+  "name": "swagger-splitter",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "swagger-parser": "~3.4.1"
+  }
+}
