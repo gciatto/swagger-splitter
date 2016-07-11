@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+'use strict';
+
 var Fs = require("fs");
 var Path = require("path");
 var Sp = require("swagger-parser");

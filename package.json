@@ -1,7 +1,10 @@
 {
   "name": "swagger-splitter",
-  "version": "0.0.0",
+  "version": "0.0.4",
   "private": false,
+  "bin": {
+    "swagger-splitter": "./app.js"
+  },
   "scripts": {
     "start": "node ./app.js"
   },
